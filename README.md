@@ -102,8 +102,10 @@ Assistive devices from my PhD portfolio (patent applications published, VIT Vell
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Arun-Roshan&show_icons=true&hide_border=true&bg_color=052453&title_color=FD5D00&icon_color=FD5D00&text_color=ffffff&count_private=true" alt="Arun Roshan GitHub stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arun-Roshan&layout=compact&hide_border=true&bg_color=052453&title_color=FD5D00&text_color=ffffff&langs_count=6" alt="Arun Roshan top languages"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arun-Roshan&theme=github_dark" alt="Arun Roshan GitHub profile summary and contribution graph" width="100%"/>
+
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Arun-Roshan&theme=github_dark" alt="Arun Roshan top languages by repository"/>
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Arun-Roshan&theme=github_dark" alt="Arun Roshan most committed languages"/>
 
 <img src="https://streak-stats.demolab.com?user=Arun-Roshan&hide_border=true&background=052453&ring=FD5D00&fire=FD5D00&currStreakLabel=FD5D00&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=cccccc" alt="Arun Roshan GitHub contribution streak"/>
 
